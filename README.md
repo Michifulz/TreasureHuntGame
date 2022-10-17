@@ -6,7 +6,7 @@
  
 During this project, I created a Q-learning algorithm
 I was given code that created a maze, a neural network that determined if the maze had been solved, the python code which ran the game, and the other assets' experience reward algorithm. 
-I created the code which learned how to solve the maze using these tools. This code is located in the ipybn file, in the qmaze() function. 
+I created the code which learned how to solve the maze using these tools. This code is located in the ipybn file, in the qtrain() function. 
 
     Connect your learning from throughout this course to the larger field of computer science:
     
